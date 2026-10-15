@@ -1,4 +1,6 @@
 {
+    "name": "TP2_Chaine_de_prod",
+    "description": "Le tp de chaine de prod",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "dev",
